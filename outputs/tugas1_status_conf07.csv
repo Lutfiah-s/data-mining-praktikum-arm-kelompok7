@@ -1,0 +1,19 @@
+aturan,support,confidence,lift,status_conf_0.7
+"Mentega, Susu -> Roti",0.183,1.0,3.333,LOLOS
+"Roti -> Mentega, Susu",0.183,0.611,3.333,GUGUR
+"Roti, Susu -> Mentega",0.183,0.846,2.986,LOLOS
+"Mentega -> Roti, Susu",0.183,0.647,2.986,GUGUR
+Shampo -> Sabun,0.15,0.692,2.769,GUGUR
+Sabun -> Shampo,0.15,0.6,2.769,GUGUR
+"Susu -> Mentega, Roti",0.183,0.579,2.672,GUGUR
+"Mentega, Roti -> Susu",0.183,0.846,2.672,LOLOS
+Roti -> Mentega,0.217,0.722,2.549,LOLOS
+Mentega -> Roti,0.217,0.765,2.549,LOLOS
+Mie Instan -> Kecap,0.15,0.5,2.5,GUGUR
+Kecap -> Mie Instan,0.15,0.75,2.5,LOLOS
+Roti -> Susu,0.217,0.722,2.281,LOLOS
+Susu -> Roti,0.217,0.684,2.281,GUGUR
+Mie Instan -> Telur,0.167,0.556,2.222,GUGUR
+Telur -> Mie Instan,0.167,0.667,2.222,GUGUR
+Susu -> Mentega,0.183,0.579,2.043,GUGUR
+Mentega -> Susu,0.183,0.647,2.043,GUGUR
