@@ -1,0 +1,63 @@
+# DATA CONTOH SINTETIS (bukan 60 transaksi asli modul).
+# Ganti dengan 60 transaksi asli dari modul sebelum membuat laporan.
+# Format: satu baris = satu transaksi, item dipisah ';'.
+Gula;Kopi;Susu
+Gula;Kopi;Susu
+Mentega;Roti;Susu;Telur
+Mie Instan
+Keju;Roti;Susu;Telur
+Keju;Mentega;Roti;Susu
+Keju;Mentega;Roti;Susu;Telur
+Gula;Kopi;Susu;Teh
+Mentega;Mie Instan;Susu;Telur
+Mentega;Roti;Susu;Telur
+Kecap;Shampo
+Kecap;Mie Instan;Telur
+Mie Instan
+Mie Instan;Sabun;Shampo
+Kecap;Mie Instan;Telur
+Gula;Teh
+Gula;Kopi;Susu;Teh
+Sabun;Shampo
+Kecap
+Kecap;Shampo
+Sabun;Shampo
+Gula;Kopi;Susu;Teh
+Keju;Mentega;Susu;Telur
+Keju;Mentega;Roti;Susu;Telur
+Gula;Kopi;Susu
+Gula;Kopi;Susu;Teh
+Kecap;Mie Instan
+Mie Instan;Roti
+Sabun
+Kecap;Mie Instan;Telur
+Gula;Kopi;Susu;Teh
+Mie Instan;Sabun
+Gula;Kopi;Susu;Teh
+Keju;Mentega;Roti;Susu;Telur
+Shampo
+Kopi;Susu
+Sabun;Shampo
+Roti;Susu;Teh;Telur
+Gula;Susu;Teh;Telur
+Keju;Roti;Telur
+Gula;Teh
+Sabun
+Sabun;Shampo
+Sabun
+Keju;Mentega;Roti;Sabun;Susu;Telur
+Keju;Mentega;Roti;Susu;Telur
+Gula;Kopi;Susu;Teh
+Mie Instan;Sabun;Telur
+Mie Instan;Roti;Telur
+Gula;Kopi;Susu;Teh
+Mie Instan;Telur
+Kecap;Mie Instan;Telur
+Roti;Susu;Telur
+Kopi;Susu;Teh
+Gula;Kopi;Susu;Teh
+Roti;Susu;Telur
+Gula;Kopi;Susu;Teh
+Kecap;Mie Instan;Telur
+Keju;Mentega;Roti;Susu
+Sabun

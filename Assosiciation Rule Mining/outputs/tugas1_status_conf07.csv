@@ -1,0 +1,69 @@
+aturan,support,confidence,lift,status_conf_0.7
+"Kopi, Teh -> Gula, Susu",0.167,0.909,3.896,LOLOS
+"Gula, Susu -> Kopi, Teh",0.167,0.714,3.896,LOLOS
+"Roti, Susu -> Mentega",0.15,0.692,3.776,GUGUR
+"Mentega -> Roti, Susu",0.15,0.818,3.776,LOLOS
+"Kopi -> Gula, Susu",0.217,0.867,3.714,LOLOS
+"Gula, Susu -> Kopi",0.217,0.929,3.714,LOLOS
+"Gula, Susu, Teh -> Kopi",0.167,0.909,3.636,LOLOS
+"Kopi -> Gula, Susu, Teh",0.167,0.667,3.636,GUGUR
+"Gula, Kopi -> Susu, Teh",0.167,0.769,3.55,LOLOS
+"Susu, Teh -> Gula, Kopi",0.167,0.769,3.55,LOLOS
+"Susu, Telur -> Mentega",0.15,0.643,3.506,GUGUR
+"Mentega -> Susu, Telur",0.15,0.818,3.506,LOLOS
+"Gula -> Kopi, Susu, Teh",0.167,0.625,3.409,GUGUR
+"Kopi, Teh -> Gula",0.167,0.909,3.409,LOLOS
+"Kopi, Susu, Teh -> Gula",0.167,0.909,3.409,LOLOS
+"Gula -> Kopi, Teh",0.167,0.625,3.409,GUGUR
+"Susu, Teh -> Kopi",0.183,0.846,3.385,LOLOS
+"Kopi -> Susu, Teh",0.183,0.733,3.385,LOLOS
+Keju -> Roti,0.15,0.9,3.375,LOLOS
+Roti -> Keju,0.15,0.562,3.375,GUGUR
+Kopi -> Gula,0.217,0.867,3.25,LOLOS
+"Gula -> Kopi, Susu",0.217,0.812,3.25,LOLOS
+Teh -> Gula,0.217,0.867,3.25,LOLOS
+Gula -> Teh,0.217,0.812,3.25,LOLOS
+Gula -> Kopi,0.217,0.812,3.25,LOLOS
+"Kopi, Susu -> Gula",0.217,0.867,3.25,LOLOS
+"Gula -> Susu, Teh",0.183,0.688,3.173,GUGUR
+"Susu, Teh -> Gula",0.183,0.846,3.173,LOLOS
+"Gula, Susu -> Teh",0.183,0.786,3.143,LOLOS
+"Teh -> Gula, Susu",0.183,0.733,3.143,LOLOS
+"Gula, Teh -> Kopi",0.167,0.769,3.077,LOLOS
+"Gula, Kopi -> Teh",0.167,0.769,3.077,LOLOS
+"Teh -> Gula, Kopi",0.167,0.667,3.077,GUGUR
+"Kopi -> Gula, Teh",0.167,0.667,3.077,GUGUR
+"Kopi, Susu -> Gula, Teh",0.167,0.667,3.077,GUGUR
+"Gula, Kopi, Susu -> Teh",0.167,0.769,3.077,LOLOS
+"Teh -> Gula, Kopi, Susu",0.167,0.667,3.077,GUGUR
+"Gula, Teh -> Kopi, Susu",0.167,0.769,3.077,LOLOS
+Mentega -> Roti,0.15,0.818,3.068,LOLOS
+Roti -> Mentega,0.15,0.562,3.068,GUGUR
+"Roti -> Mentega, Susu",0.15,0.562,3.068,GUGUR
+"Mentega, Susu -> Roti",0.15,0.818,3.068,LOLOS
+"Susu, Telur -> Roti",0.183,0.786,2.946,LOLOS
+"Roti -> Susu, Telur",0.183,0.688,2.946,GUGUR
+"Kopi, Susu -> Teh",0.183,0.733,2.933,LOLOS
+"Teh -> Kopi, Susu",0.183,0.733,2.933,LOLOS
+Kopi -> Teh,0.183,0.733,2.933,LOLOS
+Teh -> Kopi,0.183,0.733,2.933,LOLOS
+"Roti, Susu -> Telur",0.183,0.846,2.207,LOLOS
+Mentega -> Telur,0.15,0.818,2.134,LOLOS
+"Mentega, Susu -> Telur",0.15,0.818,2.134,LOLOS
+Roti -> Telur,0.217,0.812,2.12,LOLOS
+Telur -> Roti,0.217,0.565,2.12,GUGUR
+"Mentega, Telur -> Susu",0.15,1.0,1.935,LOLOS
+Kopi -> Susu,0.25,1.0,1.935,LOLOS
+"Mentega, Roti -> Susu",0.15,1.0,1.935,LOLOS
+"Gula, Kopi -> Susu",0.217,1.0,1.935,LOLOS
+"Gula, Kopi, Teh -> Susu",0.167,1.0,1.935,LOLOS
+Mentega -> Susu,0.183,1.0,1.935,LOLOS
+"Kopi, Teh -> Susu",0.183,1.0,1.935,LOLOS
+Keju -> Susu,0.15,0.9,1.742,LOLOS
+Gula -> Susu,0.233,0.875,1.694,LOLOS
+Teh -> Susu,0.217,0.867,1.677,LOLOS
+"Roti, Telur -> Susu",0.183,0.846,1.638,LOLOS
+"Gula, Teh -> Susu",0.183,0.846,1.638,LOLOS
+Roti -> Susu,0.217,0.812,1.573,LOLOS
+Mie Instan -> Telur,0.15,0.6,1.565,GUGUR
+Telur -> Susu,0.233,0.609,1.178,GUGUR

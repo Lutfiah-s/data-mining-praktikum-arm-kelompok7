@@ -1,0 +1,17 @@
+aturan,support,confidence,lift,leverage,conviction
+Teh Tarik -> Kentang Goreng,0.1,0.833,8.333,0.088,5.4
+Kentang Goreng -> Teh Tarik,0.1,1.0,8.333,0.088,inf
+"Croissant -> Air Mineral, Latte",0.08,0.5,6.25,0.067,1.84
+"Air Mineral, Latte -> Croissant",0.08,1.0,6.25,0.067,inf
+"Air Mineral, Croissant -> Latte",0.08,1.0,4.545,0.062,inf
+"Croissant, Latte -> Air Mineral",0.08,0.571,4.082,0.06,2.007
+"Air Mineral -> Croissant, Latte",0.08,0.571,4.082,0.06,2.007
+Croissant -> Latte,0.14,0.875,3.977,0.105,6.24
+Latte -> Croissant,0.14,0.636,3.977,0.105,2.31
+Americano -> Roti Bakar,0.14,0.636,3.977,0.105,2.31
+Roti Bakar -> Americano,0.14,0.875,3.977,0.105,6.24
+Air Mineral -> Croissant,0.08,0.571,3.571,0.058,1.96
+Croissant -> Air Mineral,0.08,0.5,3.571,0.058,1.72
+Air Mineral -> Latte,0.08,0.571,2.597,0.049,1.82
+Cappuccino -> Brownies,0.28,0.824,2.288,0.158,3.627
+Brownies -> Cappuccino,0.28,0.778,2.288,0.158,2.97
