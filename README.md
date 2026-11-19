@@ -1,1 +1,1 @@
-# data-mining-praktikum-kelompok7
+# Data-Mining-Praktikum-Kelompok7
