@@ -1,1 +1,1 @@
-# data-mining-praktikum-arm-kelompok7
+# data-mining-praktikum-kelompok7
